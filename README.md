@@ -1,1 +1,1 @@
-# python-games
+# This repository is about Python computer game programs
