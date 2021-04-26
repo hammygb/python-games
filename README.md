@@ -1,4 +1,4 @@
-# This repository is about Python computer game programs
+# Python computer game programs
 
 Ping Pong game screen shot:
 
